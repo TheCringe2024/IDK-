@@ -3,4 +3,4 @@ public interface IAuthenticationService {
     User logIn(String username, String password);
 }
 
-// Hello
+// Hello.
